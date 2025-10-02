@@ -14,7 +14,7 @@ Accepted proxy formats:
 Supports HTTP(S), SOCKS4, and SOCKS5 proxies when configured. Proxy quality matters 
 
 ### Links
-Project repo | [https://discord.com/invite/YMDR7yQC5W] (replace with your invite)
+Project repo | [https://discord.com/invite/YMDR7yQC5W] 
 
 ## Features / Captures:
 - Lightweight, dependency-free Python script (works with standard Python)
