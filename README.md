@@ -31,12 +31,8 @@ Project repo | [https://discord.com/invite/YMDR7yQC5W]
 Make sure you have [python](https://www.python.org/downloads/) and [git](https://git-scm.com/download/) installed.
 
 ```bash
-git clone https://github.com/YourUsername/Load-Testing-DoS-Tool
+git clone https://github.com/Relshy/Load-Testing-DoS-Tool
 cd Load-Testing-DoS-Tool
-python -m venv venv
-# macOS / Linux:
-source venv/bin/activate
-# Windows:
-# venv\Scripts\activate
 pip install -r requirements.txt
-python main.py
+Dos_Tool.py
+
